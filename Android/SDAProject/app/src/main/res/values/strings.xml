@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SDA Project David Honer</string>
+    <string name="title_activity_developer">DeveloperActivity</string>
+
+    <!-- Welcome Activity -->
+    <string name="welcome_message">Welcome to FeedbackPal</string>
+    <string name="signout_button">Signout</string>
+    <string name="developer_details">Game Developer Details</string>
+    <string name="provide_feedback">Provide Feedback</string>
+
+    <!-- Sign in and Registration Activity -->
+    <string name="input_email">Email</string>
+    <string name="input_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="create_account">No account yet? Create one</string>
+    <string name="account_creation">Create Account</string>
+    <string name="register_created">Already a member? Login</string>
+    <string name="recommend">Would you recommend this game to a friend?*</string>
+    <string name="view_feedback">View Feedback</string>
+
+    <!-- Feedback Activity -->
+    <string name="feedback_question">Do you have UI issues or game feedback, suggestions etc?</string>
+    <string name="send_feedback">Send Feedback</string>
+
+    <!-- Question Activity -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="platform_ownership">Do you own more than one platform system?</string>
+    <string name="game_genre">What is your favourite genre of game?</string>
+    <string name="sports">Sports</string>
+    <string name="role_play">Role-play</string>
+    <string name="adventure">Adventure</string>
+    <string name="battle_royale">Battle Royale</string>
+    <string name="continue_button">Continue</string>
+
+    <!-- Developers -->
+    <string name="developer_one">Digit Gaming</string>
+    <string name="address_one">4 Prince\'s Street South, City Quay, Dublin 2, </string>
+    <string name="selected_game">Game title selected:</string>
+    <string name="previous_feedback">Your previous feedback:</string>
+    <string name="country_ireland"> Ireland</string>
+    <string name="developer_one_email">press@digitgaming.com</string>
+    <string name="developer_two">Hutch Games</string>
+    <string name="address_two">2nd Floor, 40-42 Scrutton Street, London, UK</string>
+    <string name="developer_two_email">biz@hutchgames.com</string>
+    <string name="developer_three">FierceFun</string>
+    <string name="address_three">Docklands Innovation Park, East Wall Road, Dublin 3, Ireland</string>
+    <string name="developer_three_email">info@fiercefun.com</string>
+    <string name="developer_four">Bandai Namco</string>
+    <string name="address_four">2051 Mission College Blvd, Santa Clara, CA 95054, USA</string>
+    <string name="developer_four_email">support@bandainamcoent.com</string>
+    <string name="developer_five">Electronic Arts</string>
+    <string name="address_five">209 Redwood Shores Parkway, Redwood City, CA 94065, USA</string>
+    <string name="developer_five_email">info@gamesparks.com</string>
+
+    <!-- Games -->
+    <string name="game_one">Kings of the Realm</string>
+    <string name="game_two">MMX Racing</string>
+    <string name="game_three">SuperGirl</string>
+    <string name="game_four">Mario</string>
+    <string name="game_five">Call of Duty</string>
+</resources>
